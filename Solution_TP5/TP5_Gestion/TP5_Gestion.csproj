@@ -64,6 +64,12 @@
     <EmbeddedResource Include="frmForm1.resx">
       <DependentUpon>frmForm1.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="frmForm2.resx">
+      <DependentUpon>frmForm2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmForm3.resx">
+      <DependentUpon>frmForm3.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
